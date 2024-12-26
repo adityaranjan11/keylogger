@@ -1,0 +1,13 @@
+2024-12-25 21:37:03,319: Key pressed: 'd'
+2024-12-25 21:37:03,775: Key pressed: 'd'
+2024-12-25 21:37:04,050: Key pressed: 'd'
+2024-12-25 21:37:04,342: Key pressed: 'd'
+2024-12-25 21:37:04,614: Key pressed: 'd'
+2024-12-25 21:37:04,911: Key pressed: 'd'
+2024-12-25 21:37:05,494: Key pressed: Key.backspace
+2024-12-25 21:37:05,720: Key pressed: Key.backspace
+2024-12-25 21:37:05,882: Key pressed: Key.backspace
+2024-12-25 21:37:06,049: Key pressed: Key.backspace
+2024-12-25 21:37:06,213: Key pressed: Key.backspace
+2024-12-25 21:37:06,417: Key pressed: Key.backspace
+2024-12-25 21:37:07,999: Key pressed: Key.esc
